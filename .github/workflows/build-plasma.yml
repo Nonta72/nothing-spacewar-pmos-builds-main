@@ -89,3 +89,4 @@ jobs:
           name: nothing-spacewar-plasma
           path: out/*-spacewar.img*
           retention-days: 7
+
